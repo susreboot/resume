@@ -11,7 +11,7 @@
 
 <h2>Experience</h2>
 <h3>Palmetto Unified School District Columbia, SC</h3>
-<h3>IT CONSULTANT February , 2018 – Current</h3>
+<h4>IT CONSULTANT February , 2018 – Current</h4>
 • Technical management and support provided to 21 educational institutions and district office staff.<br>
 • Structuring, building, and implementing IT goals, policies, SLA guidelines, and appropriate forms.<br>
 • Planning, implementation, and management of student labs, including network access and configuration following SCDC policies
@@ -21,49 +21,59 @@ and procedures across all 21 education locations (ABE, Title 1, and SPED labs).<
 • Pearson GED workstation/software maintenance, upgrade timeline, and management following Pearson guidelines.<br>
 • Website planning, development, and implementation.<br>
 
-Munch Network Solutions Columbia, SC<br>
-SENIOR NETWORK SUPPORT ENGINEER April, 2014 – January, 2018<br>
-• Maintained and administered computer networks and related environments for over 200 client locations, including computer hardware, systems software, applications software, antivirus/monitoring software, and all applicable configurations.<br>
-• Designed, built, and operated equipment configurations, including network hardware, software, servers, and server operating systems.<br>
+<h3>Munch Network Solutions Columbia, SC</h3>
+<h4>SENIOR NETWORK SUPPORT ENGINEER April, 2014 – January, 2018</h4>
+• Maintained and administered computer networks and related environments for over 200 client locations, including computer hardware, systems software, applications software, antivirus/monitoring software, and all applicable configurations.<br>
+• Designed, built, and operated equipment configurations, including network hardware, software, servers, and server operating systems.<br>
 • Configured, monitored, and administered client Microsoft Office 365 accounts.<br>
 • Maintained client support tasks through telephone and ticket system.<br>
 
-East Coast Liquids Columbia, SC
-MARKETING MANAGER January, 2015 – January, 2016<br>
+<h3>East Coast Liquids Columbia, SC</h3>
+<h4>MARKETING MANAGER January, 2015 – January, 2016</h4>
 • Managed all marketing for the company and activities within the marketing department. Professional trade shows executed and
-promotional marketing strategy directly conveyed to potential clients.
-• Developed marketing strategy for the company in line with company objectives.
-• Created and published all marketing material in line with marketing plans.
-SC Retirement Commission Columbia, SC
-TECHNICAL SUPPORT SPECIALIST May, 2013 – April, 2014
-• Provided IT service and support in varying technical roles throughout organization.
-• Performed Active Directory user maintenance and administration.
+promotional marketing strategy directly conveyed to potential clients.<br>
+• Developed marketing strategy for the company in line with company objectives.<br>
+• Created and published all marketing material in line with marketing plans.<br>
+
+<h3>SC Retirement Commission Columbia, SC</h3>
+<h4>TECHNICAL SUPPORT SPECIALIST May, 2013 – April, 2014</h4>
+• Provided IT service and support in varying technical roles throughout organization.<br>
+• Performed Active Directory user maintenance and administration.<br>
 • Directed team engagement in special project work, problem solving, monitoring, and installing data communication equipment and
-software.
-• Managed and facilitated website redevelopment project.
-Barnes & Noble Columbia, SC
-ONLINE SUPERVISOR December, 2011 – May, 2013
-Columbia Medical Society Columbia, SC
-IT CONSULTANT (CONTRACT) November, 2011 – December, 2011
-Palmetto Eye Care Greenwood, SC
-IT CONSULTANT (CONTRACT) September, 2011 – November, 2011
-Marsh & Associates Tempe, AZ
-TECHNICAL CONSULTANT (CONTRACT) February, 2011 – September, 2011
-AZ Technical Security & Sound Mesa, AZ
-TECHNICAL SUPPORT SPECIALIST (CONTRACT) February, 2011 – September, 2011
-AZ Exotic Animal Hospital Mesa, AZ
-IT ADMINISTRATOR January, 2009 – September, 2011
-Piedmont Technical College Greenwood, SC
-SUPPORT TECHNICIAN September, 2006 – September, 2008
-Professional Achievements
-2019 GSEC certification, GIAC
-2019 WebAIM web accessibility certification, WebAIM
-2019 E-Rate Certification, SC DOA
-2019 Enrich training, SC DOE
-2019 EdTech, SC AET
-2018 EdTech, SC AET
-Education
-DeVry University Phoenix, AZ
-BACHELOR OF SCIENCE IN TECHNOLOGY MANAGEMENT/COMPUTER FORENSICS 2011
-Piedmont Technical College Greenwood, SC
-ASSOCIATE OF SCIENCE IN NETWORK ADMINISTRATION 2007
+software.<br>
+• Managed and facilitated website redevelopment project.<br>
+  
+<h3>Barnes & Noble Columbia, SC</h3>
+<h4>ONLINE SUPERVISOR December, 2011 – May, 2013</h4><br>
+  
+<h3>Columbia Medical Society Columbia, SC</h3>
+<h4>IT CONSULTANT (CONTRACT) November, 2011 – December, 2011</h4><br>
+  
+<h3>Palmetto Eye Care Greenwood, SC</h3>
+<h4>IT CONSULTANT (CONTRACT) September, 2011 – November, 2011</h4><br>
+  
+<h3>Marsh & Associates Tempe, AZ</h3>
+<h4>TECHNICAL CONSULTANT (CONTRACT) February, 2011 – September, 2011</h4><br>
+  
+<h3>AZ Technical Security & Sound Mesa, AZ</h3>
+<h4>TECHNICAL SUPPORT SPECIALIST (CONTRACT) February, 2011 – September, 2011</h4><br>
+  
+<h3>AZ Exotic Animal Hospital Mesa, AZ</h3>
+<h4>IT ADMINISTRATOR January, 2009 – September, 2011</h4><br>
+  
+<h3>Piedmont Technical College Greenwood, SC</h3>
+<h4>SUPPORT TECHNICIAN September, 2006 – September, 2008</h4><br>
+  
+<h2>Professional Achievements</h2>
+<h4>2019 GSEC certification, GIAC</h4>
+<h4>2019 WebAIM web accessibility certification, WebAIM</h4>
+<h4>2019 E-Rate Certification, SC DOA</h4>
+<h4>2019 Enrich training, SC DOE</h4>
+<h4>2019 EdTech, SC AET</h4>
+<h4>2018 EdTech, SC AET</h4>
+  
+<h2>Education</h2>
+DeVry University Phoenix, AZ<br>
+BACHELOR OF SCIENCE IN TECHNOLOGY MANAGEMENT/COMPUTER FORENSICS -- 2011<br><br>
+Piedmont Technical College Greenwood, SC<br>
+ASSOCIATE OF SCIENCE IN NETWORK ADMINISTRATION -- 2007
