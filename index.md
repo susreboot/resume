@@ -1,4 +1,4 @@
-
+<h1>Josh Brade</h1>
 <a href="mailto:joshbrade@gmail.com">joshbrade@gmail.com</a> | 803-409-8071 | Newberry, SC
 
 <h2>Skills</h2>
