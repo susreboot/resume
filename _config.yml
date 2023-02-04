@@ -2,6 +2,7 @@
 # See https://jekyllrb.com/docs/configuration/ to further customize this file
 # Defaults settings https://jekyllrb.com/docs/configuration/#default-configuration
 
+title: Resume
 description: "This is my resume"
 
 url: # (optional) https://example.com, defaults to http://localhost:4000 in development
